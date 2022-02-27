@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King at White-Hall, Novemb. 5. 1696. By Sir William Dawes, baronet, D.D. and chaplain in ordinary to His Majesty. Publish'd by His Majesties special command</title>
+            <author>Dawes, William, Sir, 1671-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82007</idno>
+            <idno type="STC">Wing D456A</idno>
+            <idno type="STC">ESTC R231752</idno>
+            <idno type="EEBO-CITATION">99897063</idno>
+            <idno type="PROQUEST">99897063</idno>
+            <idno type="VID">133246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133246)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King at White-Hall, Novemb. 5. 1696. By Sir William Dawes, baronet, D.D. and chaplain in ordinary to His Majesty. Publish'd by His Majesties special command</title>
+                  <author>Dawes, William, Sir, 1671-1724.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Speed, at the three Crowns, near the Royal-Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXXVI. [1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preach'd before the King at White-Hall, Nov. 5th.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133246:1"/>
+            <p>A SERMON Preach'd before the KING AT WHITE-HALL, <hi>Novemb.</hi> 5. 1696.</p>
+            <p>By Sir <hi>WILLIAM DAWES,</hi> Baronet, D. D. and Chaplain in Or<g ref="char:EOLhyphen"/>dinary to His Majeſty.</p>
+            <p>
+               <hi>Publiſh'd by His Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>The Second Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Speed,</hi> at the three <hi>Crowns,</hi> near the <hi>Royal-Exchange</hi> in <hi>Cornhill,</hi> MDCLXXXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:133246:2"/>
+            <pb n="3" facs="tcp:133246:2"/>
+            <head>A SERMON Preach'd before the KING AT <hi>WHITE-HALL, Nov.</hi> 5th. 1696.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Job, Chap. V. Verſ. 12.</hi>
+               </bibl>
+               <q>He diſappointeth the devices of the craf<g ref="char:EOLhyphen"/>ty, ſo that their hands cannot perform their enterprize.</q>
+            </epigraph>
+            <p>HE, that is, <hi>God,</hi> of whom we have expreſs mention in the 8th <hi>Verſe of this Chapter, I would ſeek unto God,</hi> ſaith <hi>Eliphaz</hi> to <hi>Job, and unto God would
+<pb n="4" facs="tcp:133246:3"/>I commit my cauſe,</hi> and then, having ſpo<g ref="char:EOLhyphen"/>ken very great things of <hi>God</hi> in the 9, 10, <hi>and</hi> 11 <hi>Verſes,</hi> he goeth on to ſet forth his Praiſe, in theſe Words of my Text; <hi>He diſappointeth the devices of the crafty,</hi> &amp;c.</p>
+            <p>The word, which we here render <hi>craf<g ref="char:EOLhyphen"/>ty,</hi> is us'd in a double ſenſe in Scripture, ſometimes in a good, but moſt commonly in a bad one. In the 12th <hi>Chap. of Prov. v.</hi> 23. and in other places of that Book it is Tranſlated <hi>prudent:</hi> but generally it ſtands to denote ſuch as are <hi>wickedly cun<g ref="char:EOLhyphen"/>ning;</hi> as in the <hi>83d Pſal. v. the 3d, They have taken crafty counſel againſt thy People; wickedly crafty</hi> no doubt, ſince it was a<g ref="char:EOLhyphen"/>gainſt the People of God; and in the ſame ſenſe you may meet with it, in ſe<g ref="char:EOLhyphen"/>veral other places of Holy Writ. And that this ſenſe, tho' a very bad one, be<g ref="char:EOLhyphen"/>longs to the <hi>crafty</hi> in my Text, ſeems to me to be very plain from their being repreſented there as Enemies to God, as ſuch whoſe devices he would diſap<g ref="char:EOLhyphen"/>point;
+<pb n="5" facs="tcp:133246:3"/>And, in this opinion I am far<g ref="char:EOLhyphen"/>ther confirm'd by the <hi>Vulgar Latin,</hi> which renders the Word, which we here Tran<g ref="char:EOLhyphen"/>ſlate <hi>crafty,</hi>
+               <note n="*" place="margin">Maligm</note> 
+               <hi>wicked</hi> or <hi>malicious.</hi>
+            </p>
+            <p>This then I take to be the meaning of my Text, that, with how much art and ſubtilty ſoever wicked Men may lay their plots and ill deſigns, there is a God, who both can, and frequently doth diſappoint and baffle them, make them vain, and of <hi>none effect.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 33.10.</note>
+            </p>
+            <p>That God can do this will be deny'd by none who Believe a God, an Omniſci<g ref="char:EOLhyphen"/>ent and Omnipotent God; and that he actually doth it, by none that own his Providence; and I hope I ſpeak to ſuch only at preſent, as do both. I ſhall not therefore ſpend any time needleſly, in the proof of a truth, which I look upon here as granted; but immediately pro<g ref="char:EOLhyphen"/>ceed to make the beſt uſe and improve<g ref="char:EOLhyphen"/>ment I can of it, with reſpect to the de<g ref="char:EOLhyphen"/>ſign of our preſent Meeting.</p>
+            <pb n="6" facs="tcp:133246:4"/>
+            <p>And, in order to this, I will endeavour, in my following Diſcourſe,</p>
+            <p>
+               <hi>Firſt.</hi> To ſhow how, and in what ca<g ref="char:EOLhyphen"/>ſes we may reaſonably ſuppoſe the diſap<g ref="char:EOLhyphen"/>pointments of crafty Mens devices to be from God. And from hence,</p>
+            <p>
+               <hi>Secondly.</hi> To make you ſenſible, how eminently God's Hand appear'd in thoſe Deliverances of this Nation, from the devices of crafty Men, which we this Day Commemorate. And then</p>
+            <p>
+               <hi>Thirdly</hi> and Laſtly, conclude with ſome Practical Inferences from the Whole.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 
+               <hi>Firſt.</hi> I am to ſhow how, and in what caſes we may reaſonably ſuppoſe the diſ<g ref="char:EOLhyphen"/>appointments of crafty Mens devices to be from God; from him I mean, not as the common effects of his Ordinary Pro<g ref="char:EOLhyphen"/>vidence, for in this ſenſe all events what<g ref="char:EOLhyphen"/>ſoever muſt neceſſarily be acknowledg'd to come from him: but as the Extraor<g ref="char:EOLhyphen"/>dinary Effects of his particular and ſpe<g ref="char:EOLhyphen"/>cial Providence, as his own more imme<g ref="char:EOLhyphen"/>diate and proper doing. And here I ſhall
+<pb n="7" facs="tcp:133246:4"/>not inſiſt upon thoſe which are plainly Miraculous, that is, either above or con<g ref="char:EOLhyphen"/>trary to Nature, becauſe theſe are allow'd on all hands to belong to God; but on ſuch only, as either viſibly are the immediate effects of Natural Cauſes, or at leaſt are capable of being aſcrib'd to them: and being ſo, make it difficult to determine, when they are, or are not the effects of nature, when of nature proceeding in her common courſe, and when of nature, in a more than uſual manner, influenc'd and directed by God. Now though it is ab<g ref="char:EOLhyphen"/>ſolutely impoſſible, in ſuch a nice caſe as this, full of perplexity and variety, to lay down ſuch perfect and exact Rules, as ſhall clearly and effectually reach and decide all queſtions about this matter: yet we may certainly go a great way to<g ref="char:EOLhyphen"/>wards it, if we heedfully obſerve theſe which follow.</p>
+            <p>Firſt then, when a diſappointment ſhall be brought about, in a way, though not miraculous, yet evidently ſtrange,
+<pb n="8" facs="tcp:133246:5"/>ſurprizing and unuſual, we ought in rea<g ref="char:EOLhyphen"/>ſon to place this to God's account. Thus, for example, when thoſe very means, by which crafty Men intend to accompliſh their deſigns, ſhall defeat and blaſt them; when thoſe, that are engag'd in a bad cauſe, ſhall all on a ſudden be ſtruck with a pa<g ref="char:EOLhyphen"/>nick fear, and forſake the defence of it; when a conſiderable number of Conſpi<g ref="char:EOLhyphen"/>ators, all Men of art and contrivance, ſhall neglect to make proviſion againſt their Diſcovery, in ſome very plain and obvious caſe, and thereby ſpoil their whole Plot; when a man, of notoriouſly lewd and wicked principles, ſhall in an inſtant become ſcrupulous, and think himſelf oblig'd in Conſcience to reveal his ungodly devices, and his accomplices in them, and by ſo doing deſtroy a very hopeful deſign. In theſe and many other ſuch like caſes, of which we want not in<g ref="char:EOLhyphen"/>ſtances in Hiſtory, I dare appeal to any man of ſenſe, whither it is not more a<g ref="char:EOLhyphen"/>greeable to reaſon to aſcribe ſuch diſap<g ref="char:EOLhyphen"/>pointments
+<pb n="9" facs="tcp:133246:5"/>to God:<note place="margin">
+                  <hi>Job</hi> 5.9.</note> 
+               <hi>who doth marvellous things without number:</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 14.6.9.</note> 
+               <hi>who turneth the way of the wicked upſide down: by whom ſinners are made afraid,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 33.14. <hi>Job</hi> 12.17. <hi>Prov.</hi> 21.1.</note> 
+               <hi>and Hypocrites ſurpriz'd with fearfulneſs: who leadeth Counſellors away ſpoiled, and maketh the Judges fools: and who turneth the heart of Man which way ſoever he pleaſeth</hi> than merely becauſe there is a Simple poſſibility, not a Mo<g ref="char:EOLhyphen"/>ral one, of their being the events of natu<g ref="char:EOLhyphen"/>ral chance, to force them upon her.</p>
+            <p>
+               <hi>Secondly.</hi> The Hand of God is appa<g ref="char:EOLhyphen"/>rently viſible in thoſe Diſappointments, which involve Men either in thoſe very Miſchiefs, which they had prepared for others, or at leaſt in others, for their grievouſneſs and ſoreneſs not unlike them.<note place="margin">
+                  <hi>Euſeb.</hi> Eccl. Hiſt. l. <hi>9.</hi> cap. <hi>9.</hi>
+               </note> As when <hi>Maxentius</hi> not only fail'd of his deſign againſt <hi>Conſtantines</hi> Life, but periſh'd by that very ſame de<g ref="char:EOLhyphen"/>ceitful Bridge, which he had laid for him; as when a parcel of baſe and inhuman Traytours, that Plot and Contrive how
+<pb n="10" facs="tcp:133246:6"/>they may take away their Prince's Life, not only are defeated in their Purpoſes, but are brought to a ſcandalous and mi<g ref="char:EOLhyphen"/>ſerable end themſelves; This plainly ſeems to be the doing of him, who delights to <hi>recompenſe Men according to their deeds,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 25.14.</note> and to make the Miſchief of the Wicked <hi>return upon their own heads,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 7.16.</note> and their <hi>vio<g ref="char:EOLhyphen"/>lent dealings come down upon their own pates.</hi>
+            </p>
+            <p>
+               <hi>Thirdly.</hi> When the Devices of wicked Men ſhall luckily meet with a diſap<g ref="char:EOLhyphen"/>pointment, juſt at that very time, when they are ripe and ready for execution, this is another very probable ſign of its being from God.<note place="margin">
+                  <hi>Judit.</hi> 9.11.</note> For he is <hi>a God of the afflicted, and helper of the oppreſſed, an upholder of the weak, a Protector of the forlorn, a Saviour of ſuch as are without hope.</hi> He can indeed, if he thinks fit, confound and baffle Mens de<g ref="char:EOLhyphen"/>vices, even in the very beginning of them: but he ſeems oftentimes to ſuffer them to thrive and proſper for a while, purely for
+<pb n="11" facs="tcp:133246:6"/>this end, that he may daſh them, in the very critical moment, when they think themſelves infallibly ſecure of their en<g ref="char:EOLhyphen"/>terprize: and by adminiſtring ſuch wiſe and ſeaſonable relief to his ſervants, take away from them even all pretences of aſ<g ref="char:EOLhyphen"/>cribing it to blind and undeſigning chance.</p>
+            <p>
+               <hi>Fourthly.</hi> When good Men, at the ve<g ref="char:EOLhyphen"/>ry time of their Praying for their Ene<g ref="char:EOLhyphen"/>mies diſappointment, ſhall obtain their deſire; there can be no doubt then who it is that grants it. Thus when the Ene<g ref="char:EOLhyphen"/>mies of <hi>Theodoſius</hi> were diſappointed in their Deſigns of routing him intirely,<note place="margin">
+                  <hi>Socrat.</hi> Scholaſt. Eccl. Hiſt. l. <hi>5.</hi> cap. xxv.</note> by a Tempeſtuous Wind, which aroſe im<g ref="char:EOLhyphen"/>mediately, upon his ſupplicating God for Aid, and fought ſo ſtrongly againſt his Enemies, as to change the Face of the Day, and give him, who but juſt before was declining apace, at firſt an eminent Advantage, and at laſt a Compleat Victo<g ref="char:EOLhyphen"/>ry over his Enemies: To what cauſe ſhall
+<pb n="12" facs="tcp:133246:7"/>we aſcribe this Diſappointment? Shall we ſay, that Fortune heard his Prayer, and came to his Relief? alas! ſhe is deaf and cannot hear, or, if ſhe could, cannot haſten her pace one jot. Or ſhall we ſay, that ſhe luckily happen'd to come, with<g ref="char:EOLhyphen"/>out deſign, juſt as he was Praying, and ſo made her deliverance look like an An<g ref="char:EOLhyphen"/>ſwer to his Prayers? this is highly im<g ref="char:EOLhyphen"/>probable; but it is more than probable, that it came from him <hi>who heareth pray<g ref="char:EOLhyphen"/>er,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 65.2. <hi>Pſ.</hi> 148.8.</note> who <hi>helpeth his ſervants when they cry unto him,</hi> and can make even <hi>Winds and Storms fulfil his Word.</hi>
+            </p>
+            <p>
+               <hi>Fifthly.</hi> When a great number of un<g ref="char:EOLhyphen"/>expected accidents ſhall, as it were, con<g ref="char:EOLhyphen"/>ſpire to begin, carry on, and at laſt con<g ref="char:EOLhyphen"/>ſummate any notable diſappointment, as in the caſe of <hi>Haman,</hi>
+               <note place="margin">
+                  <hi>Eſther, c.</hi> 5, 6, 7, 8.</note> who was defeated in his purpoſes againſt <hi>Mordecai</hi> and the <hi>Jews,</hi> by many ſtrange and unaccounta<g ref="char:EOLhyphen"/>ble accidents meeting together, as you may read in his Story; in ſuch a caſe
+<pb n="13" facs="tcp:133246:7"/>there ſeems to be too much art and con<g ref="char:EOLhyphen"/>trivance for Fortune to lay a Claim or Title to. She may indeed poſſibly, now and then, by the caſual concurrence of two or three happy accidents, get the praiſe of a lucky hit; but, that ſhe ſhould bring any long train of accidents toge<g ref="char:EOLhyphen"/>ther, which ſhall all ſerve to promote and farther the ſame end, is very hard to be believ'd by us, who know her variableneſs and uncertainty. And to whom then can ſuch diſappointments as theſe be attribu<g ref="char:EOLhyphen"/>ted? To whom, but him, who has the Management and Superintendency of all Accidents, and therefore can Connect and Range them together in ſuch an uſeful order, that, for a conſiderable time toge<g ref="char:EOLhyphen"/>ther, they ſhall all, without interruption, be ſubordinate and helpful to each o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>But I forbear being too particular, leaſt I ſhould be tedious.</p>
+            <pb n="14" facs="tcp:133246:8"/>
+            <p>
+               <hi>Laſtly</hi> then, let it ſuffice to obſerve, once for all, that, when-ever there are a<g ref="char:EOLhyphen"/>ny extraordinary inſtances of Power, Wiſdom and Goodneſs, viſible in the diſ<g ref="char:EOLhyphen"/>appointments of Wicked Mens Deſigns, they ought then to be look'd upon, as God's ſpecial doing. For where ſhall we expect to ſee God, if not there, where his Attributes appear in a more than ordina<g ref="char:EOLhyphen"/>ry Luſtre and Brightneſs, and do, as it were, call us to him? Where ſhall we ac<g ref="char:EOLhyphen"/>knowledge his ſpecial and immediate pre<g ref="char:EOLhyphen"/>ſence, if not there, where we cannot, with<g ref="char:EOLhyphen"/>out a manifeſt contempt of his honour, deny it?</p>
+            <p>When therefore any Plot or Deſign, that has been laid with all the Art and Contrivance of Human Policy, and for<g ref="char:EOLhyphen"/>tify'd with all the Power of Human Strength, ſo that it ſeems to Men Infalli<g ref="char:EOLhyphen"/>ble, and abſolutely uncapable of being de<g ref="char:EOLhyphen"/>feated, ſhall, after all, miſcarry, and come to nothing; then are we in reaſon bound to ſay, Behold he that is <hi>Mighty in
+<pb n="15" facs="tcp:133246:8"/>ſtrength and Wiſedom</hi> hath done this, yea,<note place="margin">
+                  <hi>Job</hi> 36.5. <hi>Pſal.</hi> 67.11. <hi>Prov.</hi> 8.14.</note> the Arm of him, to <hi>whom Power belong<g ref="char:EOLhyphen"/>eth,</hi> and the Counſel of him, who <hi>is Un<g ref="char:EOLhyphen"/>derſtanding,</hi> hath brought it to paſs.</p>
+            <p>And to the ſame Authour ought we to aſcribe thoſe diſappointments, by which and very ſignal and eminent good is ob<g ref="char:EOLhyphen"/>tain'd; as the <hi>releif of the oppreſſed,</hi> the <hi>help<g ref="char:EOLhyphen"/>ing them to right that ſuffer wrong,</hi> the pre<g ref="char:EOLhyphen"/>ſervation of the publick Peace of a Nati<g ref="char:EOLhyphen"/>on, the ſaving a whole Kingdom from ruine and the like. Theſe are great and noble ends, worthy the care and Pro<g ref="char:EOLhyphen"/>vidence of God, and moreover ſuch as, he himſelf has aſſur'd us, he delights to farther and promote. And therefore there can be do doubt, but that, when diſap<g ref="char:EOLhyphen"/>pointments evidently tend to ſuch ends as theſe, God has more then a little ſhare in the management and ordering of them.</p>
+            <p>But there are three caſes more eſpecial<g ref="char:EOLhyphen"/>ly, in which we ſhould be very careful to give God the glory of the diſappoint<g ref="char:EOLhyphen"/>ment
+<pb n="16" facs="tcp:133246:9"/>of wicked Mens devices, and thoſe are, when they are levell'd againſt his Church, his Anointed, and his peculiar People. He has ſo frequently, both in words and actions, declar'd himſelf to be in an eſpecial and extraordinary manner, the Protector and Guardian of theſe, that we cannot without Impiety ſuppoſe any weapon form'd againſt them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould be made unproſperous, without his par<g ref="char:EOLhyphen"/>ticular direction; we cannot without a kind of Sacrilege, aſcribe the good that befalls theſe, to any other cauſe, than that Providence, which is always watching over them for their Good.</p>
+            <p>Theſe are all the ſignes, that I can at preſent think off, whereby we may know the diſappointments of crafty Mens De<g ref="char:EOLhyphen"/>vices to be from God. And, by the help of theſe, I hope I ſhall find it an eaſie matter,</p>
+            <p>
+               <hi>Secondly.</hi> To make you ſenſible how eminently God's hath appear'd in thoſe
+<pb n="17" facs="tcp:133246:9"/>Deliverances of this Nation, from the De<g ref="char:EOLhyphen"/>vices of crafty Men, which we this day Commemorate. Deliverances I ſay, for they are double; our Ears have been pleas'd with the Story of the one, and our Eyes bleſs'd with the Sight of the other, and even at this day we feel and enjoy the happy effects of both. Happy effects in<g ref="char:EOLhyphen"/>deed! even our Laws, our Liberties, our Properties, our Lives, and, what is ſtill a<g ref="char:EOLhyphen"/>bundantly dearer to us, than all theſe, our Religion.</p>
+            <p>If we look back to the days of old, what a glorious and ſurprizing ſcene of Providence may we there view. Have not our Fathers told us, what, a crafty race of Men, crafty even in the worſt of ſenſes, conſpir'd at once both againſt them and God: againſt God's People, againſt God's Anointed, againſt God's Religion; a<g ref="char:EOLhyphen"/>gainſt their Lives and Fortunes, againſt their Prince and Government, againſt their way of Worſhip and Salvation? Have they not told us, how cunningly
+<pb n="18" facs="tcp:133246:10"/>and how ſecretly their enemies hid their Plot in the dark caverns of the Earth, how ſucceſsfully they throve in it, for a long time, and how near they brought it to execution; how little, in the mean while they themſelves dreamt of their danger, and how unable they were to prevent it? Have they not told us all this? Yes, and, to our comfort, a great deal more: They have told us, how their God, in whom they truſted, came ſuddenly and ſeaſona<g ref="char:EOLhyphen"/>bly to their relief: what a wonderful and unexpected accident he ſent, not many days before that on which they were de<g ref="char:EOLhyphen"/>ſtin'd for ſlaughter, to inform them of the danger they were in, and to warn them to provide againſt it: How wiſely and how powerfully he defeated all the Deep<g ref="char:EOLhyphen"/>laid and Infallible Contrivances, as they then no doubt thought them, who had the Bleſſings of Infallibility upon them, of his and their Enemies: How juſtly he re<g ref="char:EOLhyphen"/>torted the miſcheifs, they had deſign'd for his People, upon their own heads: and
+<pb n="19" facs="tcp:133246:10"/>How gloriouſly he preſerv'd his Truth and his Anointed from becoming a prey to Ido<g ref="char:EOLhyphen"/>latrous and Blood-thirſty Men, and ſuf<g ref="char:EOLhyphen"/>fered not his Heritage to be brought to confuſion. And, from theſe remarkable circumſtances of their deliverance, they have wiſely and piouſly infer'd, that it was the Lord's doing, and Religiouſly devoted this day to his Service, as an argument not only of their ſenſe of his goodneſs, but al<g ref="char:EOLhyphen"/>ſo of their thankfulneſs for it.</p>
+            <p>But we need not go ſo far backwards, to behold God ſtretching out his Arm for our deliverance. We may all remember, and certainly we ſhall never forget it! how very lately the wicked off-ſpring of the ſame race of crafty Men, whom I men<g ref="char:EOLhyphen"/>tion'd before (whoſe cuſtom it is to obſerve our <hi>Saviour</hi>'s commands by halves, and to put on the <hi>cunning of the Serpent,</hi> without the <hi>Innocency of the Dove,</hi>) were induſtriouſ<g ref="char:EOLhyphen"/>ly, contriving our ruine. Not ſo ſecretly indeed as the others, but no leſs dangerouſ<g ref="char:EOLhyphen"/>ly, becauſe their openneſs had Power and
+<pb n="20" facs="tcp:133246:11"/>Authority to ſupport it. Nay, ſo far had they prevail'd in their deſigns, that they had more than began to prophane and de<g ref="char:EOLhyphen"/>file <hi>God's Sanctuary,</hi> more than began to <hi>pillage and oppreſs his People.</hi> But I love not to repeat ſuch Melancholy Truths; It is enough to ſay our caſe was bad, and, as we then thought, deſperate; but he, whoſe <hi>thoughts are not as our thoughts,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 55.8.</note> did not think ſo; and happy was it for us that he did not. He ſaw and had compaſſion on our tears, ſaw in what need we ſtood of a De<g ref="char:EOLhyphen"/>liverer, and he immediately became one to us. And that we might, even from the be<g ref="char:EOLhyphen"/>ginning of our Deliverance, know it to be from him, he began it, with an <hi>Happy O<g ref="char:EOLhyphen"/>men,</hi> on this very Day, on which he had done ſuch <hi>wonderful things for our Fore-fa<g ref="char:EOLhyphen"/>thers</hi> in times paſt. Nor did it want other marks of being his: It was commenc'd, carry'd on and perfected in <hi>Wonders,</hi> his Enemies courage forſaking them, unac<g ref="char:EOLhyphen"/>countable fears laying hold on them, and making them to <hi>ſtagger like drunken Men,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 107.27.</note>
+               <pb n="21" facs="tcp:133246:11"/>
+               <hi>and to be at their wits end:</hi> It came in Judg<g ref="char:EOLhyphen"/>ment to make his enemies feel thoſe evils which they had not only threatn'd, but in part executed againſt others: It came in ſeaſon, when they began to <hi>Lord it over his heritage,</hi> with an high hand: It came to an<g ref="char:EOLhyphen"/>ſwer the earneſt cries and importunities of his Servants: It came attended with a mighty concurrence of lucky accidents, and, in a word, it came with ſuch extraor<g ref="char:EOLhyphen"/>dinary <hi>power, wiſdom and goodneſs, to pull down the ſtrong holds of the wicked,</hi> to turn all their craft into fooliſhneſs, and to pre<g ref="char:EOLhyphen"/>ſerve and ſecure the true Religion, and the true ſervants of it, that we have no Room to doubt, from whence it came.</p>
+            <p>Oh! Bleſſed Day, which God himſelf has marked with <hi>double Characters of Joy!</hi> We may now vie with our Fore-fathers, for inſtances of the <hi>Divine favour and Pro<g ref="char:EOLhyphen"/>tection,</hi> and hope that we are not worſe, than they were, becauſe we have not far'd worſe. It is indeed a marvellous Love, wherewith God has loved us. Oh let us
+<pb n="22" facs="tcp:133246:12"/>ſtudy how we may repay it, in acts of Duty and Obedience. But this advice will more properly belong to my</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> 
+               <hi>Third</hi> Head, under which I now come to make ſome <hi>practical inferences</hi> from the whole. And, Is it then manifeſt that the great, and wiſe, and good <hi>God,</hi> who beholds and over-rules all the <hi>moſt ſecret Counſels of the crafty,</hi> has, in a moſt illuſtrious manner, twice even on the ſame day, defeated and confounded all the promiſing and hopeful <hi>devices</hi> of our enemies againſt us? Me<g ref="char:EOLhyphen"/>thinks the conſideration of this ſhould,</p>
+            <p n="1">1. Diſcourage them from attempting us any more. When they ſee the <hi>Providence</hi> of God ſo zealouſly engag'd on our behalf, it is not greater <hi>wickedneſs,</hi> than it is <hi>folly,</hi> to fight againſt it;<note place="margin">
+                  <hi>Prov.</hi> 21.30.</note> for there is no <hi>wiſdom,</hi> nor <hi>underſtanding,</hi> nor <hi>counſel,</hi> I may ſafely add, nor <hi>power</hi> againſt the Lord. They can never prevail againſt us without his leave: and he has hitherto given them but very ſmall ground to hope that they ſhall obtain it; So far has he been from <hi>ſhining
+<pb n="23" facs="tcp:133246:12"/>upon their Counſels,</hi> that he has <hi>ſhow'd his diſpleaſure and dſlike of them,</hi> in repeated <hi>diſappointments,</hi> thereby plainly forbidding them to <hi>tempt him</hi> any more.</p>
+            <p>The <hi>Aegyptians,</hi> when they perſu'd the <hi>Iſraelites</hi> to the <hi>Red Sea,</hi> and ſaw the hand of God divide it, to make a paſſage for them, argu'd very wiſely, in ſaying, <hi>Let us flee from the face of Iſrael,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 14.25.</note> 
+               <hi>for the Lord fight<g ref="char:EOLhyphen"/>eth for them againſt the Aegyptians.</hi> And certainly, were not <hi>our enemies</hi> more hard<g ref="char:EOLhyphen"/>ned than the <hi>Aeygptians,</hi> they would ar<g ref="char:EOLhyphen"/>gue in like manner, and ſay of us; Behold the <hi>Keeper of Iſrael, who neither ſlumbereth nor ſleepeth,</hi> watcheth over <hi>this People</hi> for their <hi>Defence,</hi> and therefore it is in vain to hope that any deſign, which we can <hi>Form</hi> againſt them, ſhall proſper.</p>
+            <p>I am ſure, had they <hi>Argu'd</hi> thus ſome years ago, they had ſav'd themſelves a great deal of <hi>ſhame</hi> and <hi>trouble;</hi> but, as the wiſe Providence of God has order'd it, which knows how to <hi>bring good out of evil,</hi> it is well for us, that they did not. For
+<pb n="24" facs="tcp:133246:13"/>their frequent Diſappointments of late, and eſpecially that laſt <hi>Signal one,</hi> which is freſh upon ours, and, I dare ſay, upon their <hi>Minds</hi> too, are ſuch new and evident Te<g ref="char:EOLhyphen"/>ſtimonies of the <hi>Divine Love</hi> and <hi>Care</hi> o<g ref="char:EOLhyphen"/>ver us, as muſt certainly Damp their Spi<g ref="char:EOLhyphen"/>rits, and abate the Heat of their Deſigns againſt us.</p>
+            <p n="2">2. This Conſideration ſhould encou<g ref="char:EOLhyphen"/>rage us, in all our <hi>ſtraits</hi> and <hi>difficulties,</hi> to place our hope and confidence in God; In God, I ſay, who hath already given us ſuch glorious and happy taſts and earneſts, not only of his Ability, but alſo of his readi<g ref="char:EOLhyphen"/>neſs and willingneſs to help us. What, tho' our caſe, to Human fight, ſeem dark and melancholy, tho' our enemies lay cloſe ſiege to us, and their devices, appear to be contriv'd with ſo much art and cunning, and ſupported with ſo much ſtrength and power, that they can hardly poſſibly fail of ſucceſs; Muſt we Deſpair becauſe of this, Why ſo? Ought we not rather to Argue thus with our ſelves? Were we
+<pb n="25" facs="tcp:133246:13"/>never before in as bad a caſe? Were we ne<g ref="char:EOLhyphen"/>ver reduc'd to ſuch <hi>ſtraits</hi> before? And who then <hi>deliver'd us</hi> out of them? Who indeed but he whoſe <hi>arm</hi> is ſtill as long as ever, whoſe <hi>power</hi> and <hi>will</hi> to ſave is ſtill the ſame. Let us not <hi>fear then,</hi> neither <hi>be diſ<g ref="char:EOLhyphen"/>may'd,</hi> but in our <hi>greateſt dangers</hi> ſtill con<g ref="char:EOLhyphen"/>fide in him that hath <hi>redeem</hi>'d us, and ſay, as <hi>David</hi> did upon a like occaſion,<note place="margin">1 <hi>Sam.</hi> 17.37.</note> 
+               <hi>The Lord that deliver'd our Fore-fathers from the <hi>Gun<g ref="char:EOLhyphen"/>powder</hi> Plot, and our ſelves from another, that would as certainly, tho' not ſo ſuddenly, have prov'd fatal to us, ſhall deliver us likewiſe from the ſnares now laid for us.</hi> To him then let us <hi>commit our cauſe,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 33.18.</note> Let us <hi>hope in his mercy, and his eye will be upon us,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 37.5.</note> let us <hi>truſt alſo in him, and he ſhall bring it to paſs.</hi>
+            </p>
+            <p n="3">3. It ſhould likewiſe encourage us to make our earneſt Prayers to God for <hi>help</hi> in time of <hi>need.</hi> There is no motive, which can ſo powerfully engage Men to <hi>ſeek un<g ref="char:EOLhyphen"/>to God,</hi> as a firm beleif that they ſhall ob<g ref="char:EOLhyphen"/>tain what they ſeek for, that they ſhall <hi>ask and have.</hi> And this we have abundant rea<g ref="char:EOLhyphen"/>ſon to believe concerning our ſelves, from
+<pb n="26" facs="tcp:133246:14"/>thoſe many favourable and gracious An<g ref="char:EOLhyphen"/>ſwers which God hath given to our pray<g ref="char:EOLhyphen"/>ers hitherto.<note place="margin">
+                  <hi>Pſal.</hi> 61.2, 3.</note> 
+               <hi>From the end of the earth,</hi> ſaith <hi>David</hi> unto God, <hi>will I cry unto thee, when my heart is overwhelm'd: for thou haſt been a ſhelter for me, and a ſtrong Tower from the enemy.</hi> God has been a <hi>ſhelter</hi> to us likewiſe, therefore let us <hi>cry unto him in the time of trouble.</hi> More eſpecially at this time, when the devices of our enemies are many, and their ſtrength great againſt us, let us in<g ref="char:EOLhyphen"/>treat him to be our deliverer.<note place="margin">
+                  <hi>Pſal.</hi> 83.</note> 
+               <hi>Keep not thou ſilence O God,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 1, 2, 3, 4.</note> 
+               <hi>hold not thy peace, and be not ſtill O God. For lo thine enemies make a tumult: and they that hate thee have lift up the head. They have taken crafty counſel a<g ref="char:EOLhyphen"/>gainſt thy people, and conſulted againſt thy hid<g ref="char:EOLhyphen"/>den ones. They have ſaid, come, and let us cut them off from being a Nation: that the name of Iſrael may be no more in remembrance.</hi> But, <hi>O Lord,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 25.6.</note> 
+               <hi>Remember thy tender mercies, and thy loving kindneſſes which have been ever of old: and give not thy Scepter unto them that be nothing,</hi>
+               <note place="margin">
+                  <hi>Eſther</hi> 14.11.</note> 
+               <hi>and let them not laugh at our fall, but turn their devices upon themſelves,
+<pb n="27" facs="tcp:133246:14"/>and make him an example that hath begun this againſt us.</hi>
+            </p>
+            <p n="4">4. And laſtly, Since God hath done ſuch wonderful things for us, we muſt be ſure not to forget to glorifie him. This, he has plain<g ref="char:EOLhyphen"/>ly told us, he expect from us: <hi>I will deliver thee,</hi> ſaith he, <hi>and thou ſhalt Glorifie me.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 50.15.</note>
+            </p>
+            <p>Glorifie him, by acknowledging his Salvati<g ref="char:EOLhyphen"/>on, by confeſſing <hi>that our own arm did not ſave us, but his right hand, and his arm,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 44.3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>and the light of his countenance, becauſe he had a favour unto us.</hi>
+            </p>
+            <p>Glorifie him, by rejoycing in it: We will <hi>rejoyce in his Salvation,</hi> becauſe <hi>the Heathen are ſunk down in the pit that they made,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 9.14.15.</note> 
+               <hi>in the net which they hid is their own foot taken.</hi>
+            </p>
+            <p>Glorifie him by <hi>declaring his works,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 45.11, 12.</note> 
+               <hi>by telling the people of his doings, by ſpeaking of the glory of his Kingdom, and talking of his power; by ma<g ref="char:EOLhyphen"/>king known to the ſons of Men his mighty acts, and the glorious Majeſty of his Kingdom.</hi>
+            </p>
+            <p>Glorifie him,<note place="margin">
+                  <hi>Pſ.</hi> 26.7.</note> 
+               <hi>by having his praiſe continually in our mouths, by declaring his name unto our brethren, by praiſing him</hi> eſpecially <hi>in the midſt of the great congregation, and by publiſhing all his wondrous works with the voice of thankſgi<g ref="char:EOLhyphen"/>ving.</hi> But, above all,</p>
+            <pb n="28" facs="tcp:133246:15"/>
+            <p>Glorifie him, by our <hi>lives and converſations,</hi> by behaving our ſelves as becometh thoſe, whom the <hi>Lord hath redeem'd, and deliver'd from the hand of the enemy.</hi> This, this is that <hi>ſacrifice with which God is well pleaſed:</hi> for <hi>behold to obey and to do juſtice is better and more acceptable to him than ſacrifice.</hi>
+               <note place="margin">1 <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</hi> 15.23.</note>
+               <note place="margin">
+                  <hi>Prov.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3.</note>
+            </p>
+            <p>Let this then be our way of Glorifying God: Let us be careful not only to <hi>honour him with our lips,</hi> but alſo to <hi>order our Converſation a<g ref="char:EOLhyphen"/>right,</hi> that ſo we may both praiſe him worthi<g ref="char:EOLhyphen"/>ly for paſt Deliverances, and engage him to <hi>ſhew us his ſalvation</hi> in the times to come. If we do this we may ſafely defie all the ſtrength and cunning of our enemies, and apply thoſe words of God to them, which he ſpake by the mouth of his Holy Prophet <hi>Iſaiah,</hi> Ch. 8. <hi>v.</hi> 9, 10. <hi>Aſſociate your ſelves, O ye people, and ye ſhall be broken in pieces: and give ear all ye of far Countreys: Gird your ſelves, and ye ſhall be broken to pieces: Gird your ſelves, and ye ſhall be broken to pieces. Take counſel together and it ſhall come to naught. Speak the word, and it ſhall not ſtand, for <hi>God is with us.</hi>
+               </hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
